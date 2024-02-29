@@ -13,6 +13,7 @@ Show logs
 
 ## Azure console commands
 
+Shows the current active account
 > az account show
 
 
